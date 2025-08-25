@@ -2,7 +2,7 @@
 import Card3 from "./Card3";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import Slider, { CustomArrowProps } from "react-slick";
+import Slider from "react-slick";
 
 // function SampleNextArrow(props) {
 //   const { className, style, onClick } = props;
@@ -15,7 +15,7 @@ import Slider, { CustomArrowProps } from "react-slick";
 //   );
 // }
 
-function SampleNextArrow(props: CustomArrowProps) {
+function SampleNextArrow(props) {
   const { onClick } = props;
   return (
     <button
@@ -27,7 +27,7 @@ function SampleNextArrow(props: CustomArrowProps) {
   );
 }
 
-function SamplePrevArrow(props: CustomArrowProps) {
+function SamplePrevArrow(props) {
   const { onClick } = props;
   return (
     <button
