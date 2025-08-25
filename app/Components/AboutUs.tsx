@@ -1,5 +1,3 @@
-import { cormorant, poppins } from "../layout";
-
 const AboutUs = () => {
   return (
     <div className="py-20 max-sm:px-2 sm:px-4 lg:px-20 flex border-b-secondary border-b-1">

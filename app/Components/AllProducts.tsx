@@ -1,4 +1,3 @@
-import { TbArrowRightTail } from "react-icons/tb";
 import Card2 from "./Card2";
 const AllProducts = () => {
   return (

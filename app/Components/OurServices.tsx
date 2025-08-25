@@ -12,7 +12,7 @@ const OurServices = () => {
           </h1>
           <p>
             Say hello to a more radiant, healthier you with personalized <br />
-            skincare that's as unique as you are.
+            skincare that&apos;s as unique as you are.
           </p>
           <div>
             <button className="flex items-center px-4 py-2 gap-4 border-2 border-primary">
