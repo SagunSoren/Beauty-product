@@ -18,7 +18,7 @@ const Footer = () => {
           </div>
         </div>
         <div
-          className={`h-80 max-sm:px-2 sm:px-4 md:px-10 lg:px-40 text-center flex justify-between items-start bg-secondary text-heading border-b-2 border-b-primary`}
+          className={`h-80 max-sm:px-2 sm:px-4 md:px-10 lg:px-40 text-center flex justify-between items-start bg-bg text-heading border-b-2 border-b-secondary`}
         >
           <div className="mt-10">
             <img src="Logo1.png" className="w-full mb-6" alt="" />
@@ -26,7 +26,7 @@ const Footer = () => {
             <p className={poppins.className}>Monday to Saturday</p>
             <p className={poppins.className}>10:30 a.m. to 7 p.m.</p>
           </div>
-          <div className="w-0.5 h-full bg-primary"></div>
+          <div className="w-0.5 h-full bg-secondary"></div>
           <div className="text-center mt-10">
             <p className="mb-4 font-bold">Shop</p>
             <ul className="flex flex-col items-center gap-2 text-center">
@@ -38,7 +38,7 @@ const Footer = () => {
               <li className={poppins.className}>Gifts</li>
             </ul>
           </div>
-          <div className="w-0.5 h-full bg-primary"></div>
+          <div className="w-0.5 h-full bg-secondary"></div>
           <div className="text-center mt-10">
             <p className="mb-4 font-black">Help Desk</p>
             <ul className="flex flex-col items-center gap-2 text-center">
@@ -51,7 +51,7 @@ const Footer = () => {
               <li className={poppins.className}>My Account</li>
             </ul>
           </div>
-          <div className="w-0.5 h-full bg-primary"></div>
+          <div className="w-0.5 h-full bg-secondary"></div>
           <div className="text-center mt-10">
             <p className="mb-4 font-black">Stores</p>
             <ul className="flex flex-col items-center gap-2 text-center">
