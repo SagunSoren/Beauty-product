@@ -7,7 +7,7 @@ interface cardProp2 {
 const Card2 = ({ name, price, imagecover }: cardProp2) => {
   return (
     <div className="w-60 border-2 bg-secondary border-lines">
-      <img src={imagecover} alt="" />
+      <img src={imagecover} alt="product_image" className="w-full" />
       <div className="p-4 bg-bg ">
         <h1>{name}</h1>
         <p className="font-bold">${price}</p>
