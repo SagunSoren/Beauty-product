@@ -22,8 +22,8 @@ const Inspiredby = () => {
           <div>
             <h1 className="font-bold text-green-950">Fits your skin</h1>
             <p className="max-sm:text-sm text-darkgreen">
-              It's all natural and processed based on traditional knowledge with
-              modern technology.
+              It&apos;s all natural and processed based on traditional knowledge
+              with modern technology.
             </p>
           </div>
         </div>

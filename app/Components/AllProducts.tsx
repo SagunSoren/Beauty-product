@@ -4,7 +4,7 @@ const AllProducts = () => {
     <div className="">
       <div className="px-20 py-8 bg-primary flex items-center justify-between">
         <p className="text-3xl text-white">
-          Let's see the processing of our products
+          Let&apos;s see the processing of our products
         </p>
         <img src="Arrow-right.svg" alt="" />
       </div>
