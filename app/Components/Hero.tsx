@@ -18,7 +18,7 @@ const Hero = () => {
           <div>
             <div>
               <button
-                className={`${poppins.className} flex mt-10 items-center gap-4 text-xl py-3 px-10 tracking-tight bg-bg text-heading`}
+                className={`${poppins.className} flex mt-10 items-center max-sm:py-1 max-sm:mt-2 max-sm:px-2 gap-4 text-xl py-3 px-10 tracking-tight bg-bg text-heading`}
               >
                 Shop now
                 <img src="Arrow Right.png" className="h-4" alt="" />

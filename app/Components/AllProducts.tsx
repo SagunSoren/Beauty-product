@@ -73,10 +73,10 @@ const AllProducts = () => {
         <div className="right-side sm:w-1/2 max-sm:mt-6 px-20 max-sm:px-2 mx-auto">
           <div className="flex justify-center items-center">
             <div className="grid grid-cols-2 max-lg:grid-cols-1 max-sm:grid-cols-1 gap-4 ">
-              <Card2 name="CLASSWING" imagecover="item.png" price="20" />
-              <Card2 name="HOLOCANE" price="23" imagecover="item1.png" />
-              <Card2 name="INAMORATA" price="12" imagecover="item (3).png" />
-              <Card2 name="LIGHTCOOL" price="22.5" imagecover="item3.png" />
+              <Card2 name="CLASSWING" imagecover="Item.png" price="20" />
+              <Card2 name="HOLOCANE" price="23" imagecover="Item1.png" />
+              <Card2 name="INAMORATA" price="12" imagecover="Item (3).png" />
+              <Card2 name="LIGHTCOOL" price="22.5" imagecover="Item3.png" />
               <div>
                 <button className="px-4 mt-4 gap-4 py-2 flex items-center border-primary border-2">
                   Shop Now
